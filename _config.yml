@@ -1,0 +1,123 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+locale: "en"
+title: "Rich Allen"
+title_separator: "-"
+name: "Rich Allen"
+description: >- # this means to ignore newlines until "baseurl:"
+  Everything you need to know about Rich Allen
+url: "https://richallen.info/" 
+baseurl: # the subpath of your site, e.g. "/blog"
+twitter_username: rich_allen  
+github_username: conjurer-rich
+repository: "conjurer-rich/richallen.info" # GitHub username/repo-name
+minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search: true
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : false # true, false (default)
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+# Outputting
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+author:
+  name   : "Rich Allen"
+  avatar : "/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg"
+  bio    : "Team Topologies Valued Practitioner."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://conjurersolutions.co.uk"
+    - label: "Blue Sky"
+      icon: "fab fa-fw fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/rich-allen.bsky.social"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/conjurer-rich"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/richardallen"
+
+footer:
+  links:
+    - label: "Privacy"
+      icon: "fas fa-user-shield"
+      url: "https://www.conjurersolutions.co.uk/privacy-policy"
+    - label: "Contact"
+      icon: "fas fa-handshake"
+      url: "/contact"
+
+atom_feed:
+  hide: false
+
+defaults:
+  # _articles
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      classes: wide
+
+category_archive:
+  type: liquid
+  path: /categories/
+  
+tag_archive:
+  type: liquid
+  path: /tags/

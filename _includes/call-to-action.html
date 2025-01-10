@@ -1,0 +1,32 @@
+
+{% if include.section_wrap %}
+<div class="section">
+    <div class="container">
+        <div class="content">
+{% endif %}
+    {% if include.title %}
+  <h2>{{ include.title }}</h2>
+{% endif %}
+
+<div class="cta-wrapper {% if include.align == "center" %}align-center{% endif %}">
+  {% if include.text %}
+    <p class="cta-text">{{ include.text | markdownify }}</p>
+  {% endif %}
+  
+  {% if include.url and include.button_text %}
+    <a href="{{ include.url }}" class="btn btn--primary">{{ include.button_text }}</a>
+  {% endif %}
+  {% if include.secondary_url and include.secondary_button_text %}
+    {{include.secondary_button_prefix}}
+    <a href="{{ include.secondary_url }}" class="btn btn--inverse">{{ include.secondary_button_text }}</a>
+    {% if include.secondary_postfix_text %}
+      {{include.secondary_postfix_text}}
+    {% endif %}
+  {% endif %}
+  
+</div>
+{% if include.section_wrap %}
+    </div>
+  </div>
+</div>
+{% endif %}

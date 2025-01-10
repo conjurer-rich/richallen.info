@@ -1,0 +1,17 @@
+richallen:
+  name: "Rich Allen"
+  bio: "I help fast growing tech teams find more effective team boundaries"
+  avatar: "/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg"
+  links:
+    - label: "About me"
+      icon: "fas fa-fw fa-link"
+      url: "/contact"
+    - label: "Blue Sky"
+      icon: "fab fa-fw fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/rich-allen.bsky.social"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/conjurer-rich"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/richardallen"
