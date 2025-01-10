@@ -7,7 +7,9 @@ description: Experienced professional in software development, organizational tr
 
 ![Profile photo of Rich](/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg){: .profile-photo .align-right width="20%"}
 
-I am Rich Allen, a seasoned expert in software development, organizational transformation, and modern ways of working. Nowadays I refer to myself as a Socio-technical Architect. With over two decades of experience helping businesses uncover bottlenecks, optimize for flow, and cultivate a culture of continuous learning, I specialize in driving meaningful, sustainable change.
+I am Rich Allen, a seasoned expert in software development, organizational transformation, and modern ways of working. Nowadays I refer to myself as a Socio-technical Architect. With over two decades of experience helping businesses uncover bottlenecks, optimize for flow, and cultivate a culture of continuous learning, I specialize in driving meaningful, sustainable change.  
+
+&nbsp;  
 
 ## My Expertise
 

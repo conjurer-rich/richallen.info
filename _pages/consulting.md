@@ -3,6 +3,7 @@ permalink: /consulting
 layout: splash
 title: Consulting Services
 ---
+&nbsp;  
 
 I provide expert consulting services through my legal entity, [Conjurer Solutions](https://conjurersolutions.co.uk), where we specialize in enabling organizations to achieve faster flow, improved team alignment, and sustainable transformation. Drawing on decades of experience in software development, organizational design, and modern ways of working, I deliver practical solutions tailored to your specific challenges.
 
