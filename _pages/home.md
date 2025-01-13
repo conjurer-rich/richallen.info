@@ -1,13 +1,15 @@
 ---
 permalink: /
 layout: splash
-title: Welcome to Rich Allen's Home Page
-description: Experienced professional in software development, organizational transformation, and continuous improvement.
+title: Personal website of Rich Allen
+description: Experienced socio-technical architect bridging the gap between business and technology.
 ---
 
 ![Profile photo of Rich](/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg){: .profile-photo .align-right width="20%"}
 
-I am Rich Allen, a seasoned expert in software development, organizational transformation, and modern ways of working. Nowadays I refer to myself as a Socio-technical Architect. With over two decades of experience helping businesses uncover bottlenecks, optimize for flow, and cultivate a culture of continuous learning, I specialize in driving meaningful, sustainable change.  
+## Hello, and a very warm welcome
+
+I am an experienced [**socio-technical architect**](https://github.com/matthewskelton/sociotechnical-architecture) that specialises in bridging the gap between business and technology. With over two decades of experience helping businesses uncover bottlenecks, optimize for flow, and cultivate a culture of continuous learning, I specialize in driving meaningful, sustainable change.  
 
 &nbsp;  
 
@@ -25,10 +27,11 @@ I am Rich Allen, a seasoned expert in software development, organizational trans
 
 ## Achievements
 
-- Original co-founder of the [Developer South Coast](https://www.meetup.com/developersouthcoast/) technology user group in the UK, supporting developers in learning new technologies for over 13 years.
-- Successfully partnered with businesses to deliver workshops that empower teams to address alignment challenges and evolve for better outcomes.
-- Creator of actionable frameworks and playbooks, including approaches inspired by *Team Topologies*, helping organizations overcome limitations and achieve faster flow of change.
+- I led the adoption of [Team Topologies at PureGym](https://teamtopologies.com/puregym), restructuring software teams to better align with business needs, accelerate delivery, and foster greater collaboration.
+- Successfully partnered with businesses from small startups (30 people) to large enterprises (10000+ people) to deliver workshops that empower teams to address alignment challenges and evolve for better outcomes.
+- Creator of actionable workshops, playbooks approaches inspired by *Team Topologies*, helping organizations overcome limitations and achieve faster flow of change.
 - Recognized for delivering measurable improvements in team performance, communication, and delivery speed through innovative thinking and practical application.
+- Original co-founder of the [Developer South Coast](https://www.meetup.com/developersouthcoast/) technology user group in the UK, supporting developers in learning new technologies for over 13 years.
 
 ## How I can help you
 

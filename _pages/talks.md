@@ -8,6 +8,20 @@ description: A collection of talks given by Rich Allen on software development, 
 
 Explore a selection of talks I have delivered on topics ranging from team dynamics and organizational design to software engineering and innovation. Each talk reflects my passion for enabling organizations to achieve faster flow, reduce cognitive load, and embrace continuous improvement.
 
+{% include call-to-action.html
+    title="Interested in my talks?"
+    text="I am available for speaking engagements at conferences, meetups, and workshops. I can deliver talks on a range of topics, including: \\
+    - Team Topologies \\
+    - User Needs Mapping \\
+    - Agile and Lean practices \\
+    - Organizational transformation \\
+    - Continuous Improvement \\
+    - Sociotechnical Architecture \\
+    "
+    button_text="Get in touch"
+    url="/contact"
+%}
+
 ## Featured Talks
 
 ### Finding teams and service boundaries with User Needs Mapping
