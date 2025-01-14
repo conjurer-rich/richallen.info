@@ -16,7 +16,7 @@ Explore a selection of talks I have delivered on topics ranging from team dynami
     - Agile and Lean practices \\
     - Organizational transformation \\
     - Continuous Improvement \\
-    - Sociotechnical Architecture \\
+    - Sociotechnical Architecture
     "
     button_text="Get in touch"
     url="/contact"
