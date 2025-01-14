@@ -71,7 +71,7 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : "Rich Allen"
+  name   : "Personal website of Rich Allen"
   avatar : "/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg"
   bio    : "Team Topologies Valued Practitioner."
   links:
