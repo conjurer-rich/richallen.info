@@ -21,7 +21,11 @@ Click the image or [download the headshot](https://richallen.info/assets/images/
 - BlueSky: [https://bsky.app/profile/richallen.info](https://bsky.app/profile/richallen.info)
 - GitHub: [https://github.com/conjurer_rich](https://github.com/conjurer_rich)
 
-### Bio
+### Bio - Short
+
+**Rich Allen** is a seasoned software development, lean, and agile practitioner with over two decades of experience shaping team design and organizational effectiveness. As one of the longest-serving Team Topologies Valued Practitioners, he collaborates with Matthew Skelton and Manuel Pais to help organizations adopt fast flow and cognitive load principles. Rich specializes in uncovering bottlenecks, optimizing flow, and fostering cultures of continuous learning. He created User Needs Mapping, a widely adopted technique for defining team and service boundaries. Rich also co-founded the Developer South Coast user group and holds a BEng in Microelectronics and Computing from Bournemouth University.
+
+### Bio - Long
 
 **Rich Allen** is a seasoned practitioner in software development, lean, and agile ways of working, with over two decades of experience driving meaningful change in organizations. As one of the longest-serving Team Topologies Valued Practitioners (TTVPs), Rich has played a pivotal role in helping organizations adopt fast flow and cognitive load principles through the thoughtful application of Team Topologies patterns and principles. Working closely with Matthew Skelton and Manuel Pais, Rich has been at the forefront of shaping modern approaches to team design and organizational effectiveness.
 
