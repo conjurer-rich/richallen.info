@@ -3,6 +3,8 @@ main:
     url: /consulting
   - title: "Talks"
     url: /talks
+  - title: "Bio"
+    url: /bio
   - title: "Contact"
     url: /contact
 

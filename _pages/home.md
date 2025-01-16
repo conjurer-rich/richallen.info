@@ -9,21 +9,23 @@ description: Experienced socio-technical architect bridging the gap between busi
 
 ## Hello, and a very warm welcome
 
-I am an experienced [**socio-technical architect**](https://github.com/matthewskelton/sociotechnical-architecture) that specialises in bridging the gap between business and technology. With over two decades of experience helping businesses uncover bottlenecks, optimize for flow, and cultivate a culture of continuous learning, I specialize in driving meaningful, sustainable change.  
+I am an experienced **socio-technical architect** that specialises in bridging the gap between business and technology. With over two decades of experience helping businesses **uncover bottlenecks**, **optimize for flow**, and **cultivate a culture of continuous learning**, I specialize in driving meaningful, sustainable change.  
 
-&nbsp;  
+I am the founder/owner of [Conjurer Solutions](https://conjurersolutions.co.uk), a *boutique* consultancy based on the sunny south coast of the UK that helps businesses cultivate happier, more effective teams by providing workshops, enablement programmes, and bespoke solutions.
+
+I am also a co-founder of [LeaveWizard](https://leavewizard.com), an online leave management system that helps small businesses manage their staff leave requests and approvals quickly and easily.
 
 ## My Expertise
 
 [![Team Topologies Valued Practitioner](/assets/images/teamtopologies/teamtopologies-2021-TTVP-colour-blacktext-sm.png){: .align-right width="20%"}](https://teamtopologies.com/all-ttvp/rich-allen-ttvp)
 
-- **Team Topologies Valued Practitioner (TTVP)**: As one of the longest-serving Team Topologies Valued Practitioners, I have worked extensively with organizations to implement fast flow and reduce cognitive load using Team Topologies patterns and principles. My close collaboration with Matthew Skelton and Manuel Pais has honed my ability to help teams design effective team boundaries and service ownership models.
+- **Team Topologies Valued Practitioner (TTVP)**: As one of the longest-serving Team Topologies Valued Practitioners, I have worked extensively with organizations to implement **fast flow** and **reduce cognitive load** using Team Topologies patterns and principles. My close collaboration with Matthew Skelton and Manuel Pais has honed my ability to help teams design effective team boundaries and service ownership models.
 
-- **User Needs Mapping creator**: I developed the [User Needs Mapping](https://userneedsmapping.com) technique, a powerful framework for identifying team and service boundaries that align with business goals and user expectations.
+- **User Needs Mapping creator/curator**: I developed the [User Needs Mapping](https://userneedsmapping.com) approach, a powerful framework for identifying team and service boundaries that align with business goals and user expectations.
 
 - **Lean and Agile leadership**: Having spent years applying Continuous Improvement practices, I’ve helped countless organizations streamline processes, align team goals with strategic objectives, and foster environments where innovation thrives.
 
-- **Software delivery expertise**: My background in software engineering, coupled with hands-on experience with emerging technologies, enables me to bridge the gap between technical implementation and strategic vision.
+- **Software delivery expertise**: My background in software engineering, coupled with hands-on experience with emerging technologies, enables me to bridge the gap between technical implementation and strategic vision. I have worked with a wide range of technologies, from legacy systems to modern cloud-native architectures, and have a deep understanding of how to deliver value to users.
 
 ## Achievements
 
