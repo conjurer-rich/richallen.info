@@ -5,7 +5,7 @@ title: Personal website of Rich Allen
 description: Experienced socio-technical architect bridging the gap between business and technology.
 ---
 
-![Profile photo of Rich](/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg){: .profile-photo .align-right width="20%"}
+![Profile photo of Rich](/assets/images/richallen.jpeg){: .profile-photo .align-right width="20%"}
 
 ## Hello, and a very warm welcome
 
