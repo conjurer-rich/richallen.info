@@ -17,7 +17,7 @@ classes: wide
 Please feel free to [book some time with me](https://app.reclaim.ai/m/richard-allen/high-priority-meeting). I would be more that happy to discuss how I can help.
 
 <i class="fa-brands fa-bluesky" title="Blue Sky"></i>
-[@rich-allen.bsky.social](https://bsky.app/profile/rich-allen.bsky.social)
+[@rich-allen.bsky.social](https://bsky.app/profile/richallen.info)
 
 <i class="fa-brands fa-linkedin" title="LinkedIn"></i>
 [in/richardallen](https://www.linkedin.com/in/richardallen/)  
