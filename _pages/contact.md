@@ -12,7 +12,7 @@ classes: wide
 
 ## Get in touch
 
-![Profile photo of Rich](/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg){: .align-right width="20%"}
+![Profile photo of Rich](assets/images/richallen.jpeg){: .align-right width="20%"}
 
 Please feel free to [book some time with me](https://app.reclaim.ai/m/richard-allen/high-priority-meeting). I would be more that happy to discuss how I can help.
 
