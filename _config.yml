@@ -28,11 +28,6 @@ minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark"
 search: true
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-NRB4FLG0YQ"
-    anonymize_ip: false
 
 # Build settings
 markdown: kramdown
