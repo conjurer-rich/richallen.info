@@ -24,6 +24,18 @@ Explore a selection of talks I have delivered on topics ranging from team dynami
 
 ## Featured Talks
 
+### From Inside-Out to Outside-In: Aligning teams around what matters
+
+**Event**: [Fast Flow Conference NL 2025](https://fastflowconf.com/)  
+**Date**: [March, 2025]  
+**Summary**: Most organizations focus on optimizing their internal processes, creating silos and misalignments that hinder their ability to deliver value effectively. This inside-out perspective may feel like the best way to run a business, but it misses the most critical perspective: that of the customer. Whether it’s Product, Tech, Operations, or even Marketing, failing to align around the value being delivered creates inefficiencies, complexity, and frustration.
+
+This talk introduces User Needs Mapping as a practical approach to shift organizational thinking to outside-in. By focusing on user needs—external and internal—it enables every part of the organization to align around the value being delivered. From revealing misalignments to breaking dependencies and fostering purposeful collaboration, User Needs Mapping provides immediate insights into creating focus, ownership, and autonomy for teams.
+
+Through actionable examples and real-world stories, this session will show you how to uncover what truly matters for your users and align your entire organization to deliver value more effectively.
+
+<script defer class="speakerdeck-embed" data-id="ab63fa43c5cc4cf5ac158ab7ce57fbca" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
+
 ### Finding teams and service boundaries with User Needs Mapping
 
 **Event**: [Fast Flow Conference 2023](https://fastflowconf.com/)  
