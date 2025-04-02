@@ -32,7 +32,9 @@ Explore a selection of talks I have delivered on topics ranging from team dynami
 
 This talk introduces User Needs Mapping as a practical approach to shift organizational thinking to outside-in. By focusing on user needs—external and internal—it enables every part of the organization to align around the value being delivered. From revealing misalignments to breaking dependencies and fostering purposeful collaboration, User Needs Mapping provides immediate insights into creating focus, ownership, and autonomy for teams.
 
-Through actionable examples and real-world stories, this session will show you how to uncover what truly matters for your users and align your entire organization to deliver value more effectively.
+Through actionable examples and real-world stories, this session will show you how to uncover what truly matters for your users and align your entire organisation to deliver value more effectively.
+
+{% include video id="UYbTZzvk_C0" provider="youtube" %}
 
 <script defer class="speakerdeck-embed" data-id="ab63fa43c5cc4cf5ac158ab7ce57fbca" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
 
