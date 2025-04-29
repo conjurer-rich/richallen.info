@@ -1,56 +1,70 @@
 ---
 permalink: /
 layout: splash
-title: Personal website of Rich Allen
-description: Experienced socio-technical architect bridging the gap between business and technology.
+title: Building sustainable flow through clarity, empowerment, and thoughtful design.
+excerpt: >-
+  I help organizations bridge the critical gap between business ambition and technical execution — enabling *faster, healthier flow of value, learning, and outcomes*.
+description: Helping organizations unlock sustainable fast flow through system clarity, empowered teams, and practical, lasting change.
+header:
+  overlay_color: "#1D2731"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/talks/ffc-nl-25-3-crop-high.jpg
+  text_color: "#F6F7F8"
 ---
 
-![Profile photo of Rich](/assets/images/richallen.jpeg){: .profile-photo .align-right width="20%"}
+With over two decades of experience as a socio-technical architect, consultant, and enabler of fast flow, I specialize in driving meaningful, sustainable change through system clarity, empowered teams, and continuous improvement.
 
-## Hello, and a very warm welcome
+I’m the founder of [Conjurer Solutions](https://conjurersolutions.co.uk){:target="_blank"}, a boutique consultancy based on the sunny south coast of the UK, dedicated to helping organizations cultivate happier, more effective teams through workshops, enablement programmes, and bespoke solutions. I’m also the co-founder of [LeaveWizard](https://leavewizard.com){:target="_blank"}, an online leave management system supporting small businesses with simple, effective staff leave management.
 
-I am an experienced **socio-technical architect** that specialises in bridging the gap between business and technology. With over two decades of experience helping businesses **uncover bottlenecks**, **optimize for flow**, and **cultivate a culture of continuous learning**, I specialize in driving meaningful, sustainable change.  
+## My Focus Areas
 
-I am the founder/owner of [Conjurer Solutions](https://conjurersolutions.co.uk), a *boutique* consultancy based on the sunny south coast of the UK that helps businesses cultivate happier, more effective teams by providing workshops, enablement programmes, and bespoke solutions.
+### Fast Flow Flywheel Creator
 
-I am also a co-founder of [LeaveWizard](https://leavewizard.com), an online leave management system that helps small businesses manage their staff leave requests and approvals quickly and easily.
+Author of the [Fast Flow Flywheel](https://fastflowflywheel.com){:target="_blank"} approach — a practical system for capturing, aligning, and sustaining decisions that drive faster, healthier organizational flow.
 
-## My Expertise
+### User Needs Mapping Creator
 
-[![Team Topologies Valued Practitioner](/assets/images/teamtopologies/teamtopologies-2021-TTVP-colour-blacktext-sm.png){: .align-right width="20%"}](https://teamtopologies.com/all-ttvp/rich-allen-ttvp)
+Developer of the [User Needs Mapping](https://userneedsmapping.com){:target="_blank"} technique — a powerful method for identifying team and service boundaries aligned to real user needs and business outcomes.
 
-- **Team Topologies Valued Practitioner (TTVP)**: As one of the longest-serving Team Topologies Valued Practitioners, I have worked extensively with organizations to implement **fast flow** and **reduce cognitive load** using Team Topologies patterns and principles. My close collaboration with Matthew Skelton and Manuel Pais has honed my ability to help teams design effective team boundaries and service ownership models.
+### Flow Decision Records Creator
 
-- **User Needs Mapping creator/curator**: I developed the [User Needs Mapping](https://userneedsmapping.com) approach, a powerful framework for identifying team and service boundaries that align with business goals and user expectations.
+Originator of [Flow Decision Records](https://flowdecisionrecords.com){:target="_blank"} — enabling decentralized, dynamic decision-making that supports continuous flow of value across teams and services.
 
-- **Lean and Agile leadership**: Having spent years applying Continuous Improvement practices, I’ve helped countless organizations streamline processes, align team goals with strategic objectives, and foster environments where innovation thrives.
+### Facilitating Fast Flow Author
 
-- **Software delivery expertise**: My background in software engineering, coupled with hands-on experience with emerging technologies, enables me to bridge the gap between technical implementation and strategic vision. I have worked with a wide range of technologies, from legacy systems to modern cloud-native architectures, and have a deep understanding of how to deliver value to users.
+Writer of [Facilitating Fast Flow](https://facilitatingfastflow.com){:target="_blank"} and the [Fast Flow Facilitators Toolkit](https://fastflowtoolkit.com){:target="_blank"} — hands-on, practical guides for enabling flow-centric teams in real-world environments.
 
-## Achievements
+### Team Topologies Expertise
 
-- I led the adoption of [Team Topologies at PureGym](https://teamtopologies.com/puregym), restructuring software teams to better align with business needs, accelerate delivery, and foster greater collaboration.
-- Successfully partnered with businesses from small startups (30 people) to large enterprises (10000+ people) to deliver workshops that empower teams to address alignment challenges and evolve for better outcomes.
-- Creator of actionable workshops, playbooks approaches inspired by *Team Topologies*, helping organizations overcome limitations and achieve faster flow of change.
-- Recognized for delivering measurable improvements in team performance, communication, and delivery speed through innovative thinking and practical application.
-- Original co-founder of the [Developer South Coast](https://www.meetup.com/developersouthcoast/) technology user group in the UK, supporting developers in learning new technologies for over 13 years.
+One of the longest-serving [Team Topologies Valued Practitioners (TTVP)](https://teamtopologies.com/all-ttvp/rich-allen-ttvp), closely collaborating with [Matthew Skelton](https://matthewskelton.com){:target="_blank"} and [Manuel Pais](https://www.linkedin.com/in/manuelpais/){:target="_blank"} to help organizations reduce cognitive load, evolve team boundaries, and unlock sustainable fast flow.
 
-## How I can help you
+### Lean, Agile, and Software Delivery Leadership
+
+Deep experience applying Lean, Agile, and Continuous Improvement practices to optimize delivery pipelines, foster learning cultures, and align technology teams with strategic business goals — across startups to large enterprises (10,000+ people).
+
+### Selected Achievements
+
+- Led the adoption of [Team Topologies](https://teamtopologies.com/puregym){: target="_blank"} at PureGym, restructuring software teams to better align with business needs, accelerate delivery, and foster collaboration.
+- Delivered workshops and enablement programmes for organizations from 30-person startups to global enterprises, helping teams realign for faster, more meaningful outcomes.  
+- Creator of actionable workshop formats and playbooks inspired by Team Topologies, enabling organizations to overcome systemic limitations and achieve faster flow of change.
+- Recognized for delivering measurable improvements in team performance, communication, and delivery speed through practical, systems-oriented thinking.
+
+### How I Can Help You
 
 I partner with organizations to:
 
-- **Unlock faster flow of change**: Using principles from *Team Topologies* and other methodologies, I guide teams toward actionable solutions that drive value delivery.
-- **Optimize team boundaries**: By addressing misaligned boundaries, I help teams improve collaboration, reduce cognitive load, and accelerate delivery.
-- **Build practical knowledge**: Whether through workshops, consulting, or bespoke solutions, I translate theory into practice to meet your unique challenges.
+- Unlock faster flow of change: Guiding teams toward actionable, sustainable solutions that drive real value delivery.
+- Optimize team boundaries: Helping teams and leaders design for reduced cognitive load, stronger collaboration, and accelerated outcomes.
+- Translate theory into practice: Delivering practical, tailored workshops, consulting, and enablement rooted in real-world experience, not just abstract frameworks.
 
-## Let’s work together
+### Let’s Work Together
 
-If you are looking for an experienced partner to:
+If you’re ready to:
 
-- Transform your organization’s approach to delivery and value creation.
-- Align your teams with strategic business objectives.
-- Cultivate a culture of innovation and continuous improvement.
+- Transform your organization’s approach to delivery and value creation,
+- Align your teams more closely with strategic business objectives,
+- Cultivate a resilient culture of learning, innovation, and continuous improvement —
 
-I would love to hear from you. Let’s explore how we can achieve your goals together.
+Then let's start a conversation.
 
-[Contact Me](/contact) to start the conversation.
+[Contact Me](/contact)
