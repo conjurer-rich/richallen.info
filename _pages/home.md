@@ -14,7 +14,7 @@ header:
 
 With over two decades of experience as a socio-technical architect, consultant, and enabler of fast flow, I specialize in driving meaningful, sustainable change through system clarity, empowered teams, and continuous improvement.
 
-I’m the founder of [Conjurer Solutions](https://conjurersolutions.co.uk){:target="_blank"}, a boutique consultancy based on the sunny south coast of the UK, dedicated to helping organizations cultivate happier, more effective teams through workshops, enablement programmes, and bespoke solutions. I’m also the co-founder of [LeaveWizard](https://leavewizard.com){:target="_blank"}, an online leave management system supporting small businesses with simple, effective staff leave management.
+I’m the founder of [Conjurer Solutions](https://conjurersolutions.co.uk){:target="_blank"}, a boutique consultancy based on the sunny south coast of the UK, dedicated to helping organizations cultivate happier, more effective teams through workshops, enablement programmes, and bespoke solutions.
 
 ## My Focus Areas
 
