@@ -52,11 +52,9 @@ For organizations ready to move beyond isolated improvements, I offer structured
 
 I tailor every engagement to your context, pace, and goals — whether you need:
 
-A one-off diagnostic workshop to uncover flow friction points
-
-A targeted enablement program for leadership and teams
-
-A longer-term partnership to design, apply, and embed sustainable fast flow
+- A one-off diagnostic workshop to uncover flow friction points
+- A targeted enablement program for leadership and teams
+- A longer-term partnership to design, apply, and embed sustainable fast flow
 
 ## Let's Unlock Your Potential
 
