@@ -58,7 +58,7 @@ quote-list:
 
 ## When Best Practices Fall Short
 
-You’ve tried the frameworks. SAFe, Spotify, Agile-at-scale, they all promise results, and some even help... to a point.
+You’ve tried the frameworks. SAFe, Spotify, Agile-at-scale: they all promise results, and some even help... to a point.
 
 But your organization isn’t generic. It has unique constraints, cultures, and trade-offs. Off-the-shelf models weren’t designed for that.
 
@@ -66,7 +66,7 @@ That’s where I come in.
 
 I don’t bring a fixed methodology, I bring a way of working that’s grounded in your reality. I work directly with your teams to uncover what's holding them back, and together we evolve the structures, workflows, and decisions needed to restore flow and effectiveness.
 
-Clients typically bring me in when standard approaches haven’t delivered.
+Clients typically bring me in when there is friction between business and tech.
 We focus on what matters: improving throughput, shortening lead times, aligning on value, and reducing unnecessary complexity.
 
 Not theory. Not templates. Just practical, context-aware progress.
@@ -86,12 +86,6 @@ I work shoulder-to-shoulder with your teams to discover the friction that’s ho
 
 **Just tailored, pragmatic guidance that fits your context.**
 
-{% include quote_row.html id="quote-list"
-   title="What leaders say"
-   section_wrap=false
-   align="center"
-%}
-
 ## The outcome?
 
 - **Teams that move with clarity and purpose**
@@ -102,7 +96,13 @@ I work shoulder-to-shoulder with your teams to discover the friction that’s ho
 
 - **And a workplace where your best people want to stay**
 
-## Let’s talk.
+{% include quote_row.html id="quote-list"
+   title="What leaders say"
+   section_wrap=false
+   align="center"
+%}
+
+## Let’s talk
 
 If you’re ready to stop spinning and start making meaningful progress, let’s have a conversation.
 

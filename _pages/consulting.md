@@ -22,16 +22,14 @@ header:
 
 Drawing on decades of hands-on experience in software development, organizational design, and continuous improvement practices, I partner with organizations to deliver tailored, practical solutions that drive meaningful, lasting change.
 
-## Engagement Approach:
+## Engagement Approach
 
 Every engagement starts with a simple goal:
 Create the conditions where teams can flow faster, think clearer, and deliver outcomes that matter.
 
 I offer a range of services — from single workshops to long-term advisory partnerships — designed to meet you where you are and guide you toward faster, healthier flow.
 
-My engagements typically focus on:
-
-## Areas of Expertise:
+## Areas of Expertise
 
 ### Team and Organizational Design
 
@@ -52,8 +50,6 @@ Equip your teams and leaders with the mindset, skills, and practical tools neede
 ### Fast Flow Flywheel Engagements
 
 For organizations ready to move beyond isolated improvements, I offer structured engagements based on the [Fast Flow Flywheel](https://fastflowflywheel.com){:target="_blank"} — a proven model for sensing, deciding, acting, reflecting, and amplifying flow-centric change across the organization.
-
-[Explore engagement options →](https://fastflowflywheel.com/engagements/engagement-overview){:target="_blank"}.
 
 ### How We Work Together
 
