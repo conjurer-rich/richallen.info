@@ -10,6 +10,13 @@ header:
   overlay_image: /assets/images/talks/ffc-nl-25-7.jpeg
   overlay_filter: "0.5"
   text_color: "#F6F7F8"
+  actions:
+    - label: "Contact Me"
+      url: "/contact"
+      btn_class: "btn--primary"
+    - label: "Connect on LinkedIn"
+      url: "https://www.linkedin.com/in/richardallen/"
+      btn_class: "btn--outline-light"
 ---
 &nbsp;
 

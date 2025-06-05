@@ -1,4 +1,4 @@
-{% assign postfix_text = "Have you tried User Needs Mapping? We'd love to get your feedback. [Let us know your thoughts](/feedback)." %}
+{% assign postfix_text = "" %}
 {% if include.postfix_text %}
   {% assign postfix_text = include.postfix_text %}
 {% endif %}
@@ -14,7 +14,7 @@
         <div class="content">
 {% endif %}
 {% if include.title %}
-<h2>{{ include.title }}</h2>
+<h2 class="{% if include.align %}text-{{ include.align }}{% endif %}">{{ include.title }}</h2>
 {% endif %}
 <div class="quote__wrapper">
   {% for f in quote_row %}

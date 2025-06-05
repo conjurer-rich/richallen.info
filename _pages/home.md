@@ -1,70 +1,109 @@
 ---
 permalink: /
 layout: splash
-title: Building sustainable flow through clarity, empowerment, and thoughtful design.
-excerpt: >-
-  I help organizations bridge the critical gap between business ambition and technical execution — enabling *faster, healthier flow of value, learning, and outcomes*.
-description: Helping organizations unlock sustainable fast flow through system clarity, empowered teams, and practical, lasting change.
+title: Less friction. More flow. Real progress.
+excerpt: >
+  Teams are overloaded. Progress is slow. Talent is leaving.  
+  And despite everyone’s effort, the business isn’t seeing the results.    
+  <br/><br/>  
+  **I help CTOs, CPOs, and Engineering Leaders fix that.**
 header:
   overlay_color: "#1D2731"
   overlay_filter: "0.5"
   overlay_image: /assets/images/talks/ffc-nl-25-3-crop-high.jpg
   text_color: "#F6F7F8"
+  actions:
+    - label: "Contact Me"
+      url: "/contact"
+      btn_class: "btn--primary"
+    - label: "Connect on LinkedIn"
+      url: "https://www.linkedin.com/in/richardallen/"
+      btn_class: "btn--outline-light"
+feature_row:
+  - alt: "Effort Not Converting Into Outcomes"
+    title: "Effort Not Converting Into Outcomes"
+    excerpt: "Delivery teams are fully engaged, yet critical initiatives take too long to reach production. Strategic momentum suffers."
+  - alt: "Operational Drag Slowing You Down"
+    title: "Operational Drag Slowing You Down"
+    excerpt: "Excessive coordination, unclear accountabilities, and rework are consuming capacity that should be spent on innovation."
+  - alt: "Product Investment Not Translating Into Value"
+    title: "Product Investment Not Translating Into Value"
+    excerpt: "You’re shipping features, but they’re not moving the needle. Feedback cycles are too slow to guide meaningful iteration." 
+  - alt: "The Risk of Losing Key Talent"
+    title: "The Risk of Losing Key Talent"
+    excerpt: "Top engineers are frustrated. They want to contribute, but structural blockers and unclear impact are pushing them away." 
+  - alt: "Scaling Introduces More Friction, Not Less"
+    title: "Scaling Introduces More Friction, Not Less"
+    excerpt: "As the organization grows, delivery velocity declines. Communication overhead and structural complexity are compounding." 
+  - alt: "Reactive, Not Strategic"
+    title: "Your Organization Is Reactive, Not Strategic"
+    excerpt: "Urgent issues dominate attention. There’s little time or space to build sustainable differentiators or anticipate what’s next." 
+quote-list:
+  - excerpt: "He didn’t just give us answers, but guided the team to think deeper and uncover the right solutions together. This helped everyone feel more involved and confident in the direction we were taking."  
+    image_path: "/assets/images/profiles/giorgos_ampavis.png"
+    image_caption: "Giorgos Ampavis,  
+    CTPO,  
+    LHV Bank"
+  - excerpt: "Whether you have little exposure or consider yourself an advanced expert in Team Topologies, I highly recommend Rich’s work. It’s an investment with immediate returns."  
+    image_path: "/assets/images/profiles/rodrigo_viana_rocha.png"
+    image_caption: "Rodrigo Viana Rocha,  
+    Head of Engineering,  
+    Syngenta Digital"
+  - excerpt: "Rich really helped us get on the fast track with our newly found engineering teams. Having a structured approach with valuable insights allowed us to shape stream-aligned team structures"  
+    image_path: "/assets/images/profiles/niklas_henrich.jpeg"
+    image_caption: "Niklas Henrich,  
+    CTO,  
+    Code Intelligence"
 ---
 
-With over two decades of experience as a socio-technical architect, consultant, and enabler of fast flow, I specialize in driving meaningful, sustainable change through system clarity, empowered teams, and continuous improvement.
+## When Best Practices Fall Short
 
-I’m the founder of [Conjurer Solutions](https://conjurersolutions.co.uk){:target="_blank"}, a boutique consultancy based on the sunny south coast of the UK, dedicated to helping organizations cultivate happier, more effective teams through workshops, enablement programmes, and bespoke solutions.
+You’ve tried the frameworks. SAFe, Spotify, Agile-at-scale, they all promise results, and some even help... to a point.
 
-## My Focus Areas
+But your organization isn’t generic. It has unique constraints, cultures, and trade-offs. Off-the-shelf models weren’t designed for that.
 
-### Fast Flow Flywheel Creator
+That’s where I come in.
 
-Author of the [Fast Flow Flywheel](https://fastflowflywheel.com){:target="_blank"} approach — a practical system for capturing, aligning, and sustaining decisions that drive faster, healthier organizational flow.
+I don’t bring a fixed methodology, I bring a way of working that’s grounded in your reality. I work directly with your teams to uncover what's holding them back, and together we evolve the structures, workflows, and decisions needed to restore flow and effectiveness.
 
-### User Needs Mapping Creator
+Clients typically bring me in when standard approaches haven’t delivered.
+We focus on what matters: improving throughput, shortening lead times, aligning on value, and reducing unnecessary complexity.
 
-Developer of the [User Needs Mapping](https://userneedsmapping.com){:target="_blank"} technique — a powerful method for identifying team and service boundaries aligned to real user needs and business outcomes.
+Not theory. Not templates. Just practical, context-aware progress.
 
-### Flow Decision Records Creator
+## Are you frustrated by these problems?
 
-Originator of [Flow Decision Records](https://flowdecisionrecords.com){:target="_blank"} — enabling decentralized, dynamic decision-making that supports continuous flow of value across teams and services.
+{% include feature_row %}
 
-### Facilitating Fast Flow Author
+I help organizations untangle these patterns and start building with clarity, purpose, and flow.
 
-Writer of [Facilitating Fast Flow](https://facilitatingfastflow.com){:target="_blank"} and the [Fast Flow Facilitators Toolkit](https://fastflowtoolkit.com){:target="_blank"} — hands-on, practical guides for enabling flow-centric teams in real-world environments.
+## A bridge between business and tech
 
-### Team Topologies Expertise
+I’m a technologist who speaks business language.
+I work shoulder-to-shoulder with your teams to discover the friction that’s holding you back, and help you evolve the structures, practices, and interactions that enable real progress.
 
-One of the longest-serving [Team Topologies Valued Practitioners (TTVP)](https://teamtopologies.com/all-ttvp/rich-allen-ttvp), closely collaborating with [Matthew Skelton](https://matthewskelton.com){:target="_blank"} and [Manuel Pais](https://www.linkedin.com/in/manuelpais/){:target="_blank"} to help organizations reduce cognitive load, evolve team boundaries, and unlock sustainable fast flow.
+**No jargon. No playbooks-for-hire.**
 
-### Lean, Agile, and Software Delivery Leadership
+**Just tailored, pragmatic guidance that fits your context.**
 
-Deep experience applying Lean, Agile, and Continuous Improvement practices to optimize delivery pipelines, foster learning cultures, and align technology teams with strategic business goals — across startups to large enterprises (10,000+ people).
+{% include quote_row.html id="quote-list"
+   title="What leaders say"
+   section_wrap=false
+   align="center"
+%}
 
-### Selected Achievements
+## The outcome?
 
-- Led the adoption of [Team Topologies](https://teamtopologies.com/puregym){: target="_blank"} at PureGym, restructuring software teams to better align with business needs, accelerate delivery, and foster collaboration.
-- Delivered workshops and enablement programmes for organizations from 30-person startups to global enterprises, helping teams realign for faster, more meaningful outcomes.  
-- Creator of actionable workshop formats and playbooks inspired by Team Topologies, enabling organizations to overcome systemic limitations and achieve faster flow of change.
-- Recognized for delivering measurable improvements in team performance, communication, and delivery speed through practical, systems-oriented thinking.
+- **Teams that move with clarity and purpose**
 
-### How I Can Help You
+- **Strategy that’s actionable, not just aspirational**
 
-I partner with organizations to:
+- **Less friction, more flow**
 
-- Unlock faster flow of change: Guiding teams toward actionable, sustainable solutions that drive real value delivery.
-- Optimize team boundaries: Helping teams and leaders design for reduced cognitive load, stronger collaboration, and accelerated outcomes.
-- Translate theory into practice: Delivering practical, tailored workshops, consulting, and enablement rooted in real-world experience, not just abstract frameworks.
+- **And a workplace where your best people want to stay**
 
-### Let’s Work Together
+## Let’s talk.
 
-If you’re ready to:
+If you’re ready to stop spinning and start making meaningful progress, let’s have a conversation.
 
-- Transform your organization’s approach to delivery and value creation,
-- Align your teams more closely with strategic business objectives,
-- Cultivate a resilient culture of learning, innovation, and continuous improvement —
-
-Then let's start a conversation.
-
-[Contact Me](/contact)
+[Contact Me](/contact) or [Connect on LinkedIn](https://www.linkedin.com/in/richardallen/)
