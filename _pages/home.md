@@ -50,7 +50,7 @@ quote-list:
     Head of Engineering,  
     Syngenta Digital"
   - excerpt: "Rich really helped us get on the fast track with our newly found engineering teams. Having a structured approach with valuable insights allowed us to shape stream-aligned team structures"  
-    image_path: "/assets/images/profiles/niklas_henrich.jpeg"
+    image_path: "/assets/images/profiles/niklas_henrich.png"
     image_caption: "Niklas Henrich,  
     CTO,  
     Code Intelligence"
