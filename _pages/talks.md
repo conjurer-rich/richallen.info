@@ -26,8 +26,8 @@ Each talk is rooted in real-world experience and practical insights, offering st
 
 Common topics include:
 
+- User Needs Mapping: Aligning Teams Around What Matters
 - Team Topologies and fast flow team design
-- User Needs Mapping for organizational alignment
 - Agile and Lean principles for sustainable improvement
 - Organizational transformation and evolution
 - Building enabling structures through sociotechnical architecture
@@ -40,6 +40,18 @@ Custom sessions can also be tailored to your audience or organizational challeng
 %}
 
 ## Featured Talks
+
+### Navigating From Tension to Flow: A Human-Centred Guide to Overcoming Misalignment
+
+**Event**: [Fast Flow Conference UK 2025](https://fastflowconf.com/)  
+**Date**: [October, 2025]  
+**Summary**: Behind every stalled project, missed milestone, or unclear decision is a story of tension between what people want, what’s needed, and what’s possible. But tension isn’t failure. It’s feedback.
+
+This talk explores how to recognize and respond to tension using Team Topologies principles, flow first thinking, and a healthy dose of human insight. We’ll show how organizational patterns, team boundaries, and interaction modes can either amplify or ease misalignment — and how trust, empathy, and bold conversation are just as important as structure, if not more so. Packed with real-world examples, this session blends organizational design with emotional intelligence to help you design for flow — and for people.
+
+{% include video id="XCUEeurSnlU" provider="youtube" %}
+
+<script defer class="speakerdeck-embed" data-id="f722ca28715344cdabd19f3c394de335" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### From Inside-Out to Outside-In: Aligning teams around what matters
 
